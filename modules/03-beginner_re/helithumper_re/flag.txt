@@ -1,0 +1,2 @@
+Validate compares input to an int32_t array containing the flag.
+flag{HuCf_lAb}
